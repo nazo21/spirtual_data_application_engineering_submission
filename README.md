@@ -1,5 +1,5 @@
 ### spirtual_data_application_engineering_submission
-My Submission for a potential role at Spirtual Data
+My Submission for a potential role at Spiritual Data
 
-###Tech Stack 
+### Tech Stack 
  Vite + React and R3F
